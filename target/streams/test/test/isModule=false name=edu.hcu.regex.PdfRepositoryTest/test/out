@@ -1,0 +1,8 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mPdfRepositoryTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Inserting Pdf file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Updating Pdf file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Deleting Pdf[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- Fetch Pdf Data By Pdf Id *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  None did not equal Some(FileData(This pdf content will always be available,Some(1))) (PdfRepositoryTest.scala:58)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- Fetch All Pdfs *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  List(FileData(This Is Dummy Pdf Data,Some(2))) did not equal List(FileData(This pdf content will always be available,Some(1))) (PdfRepositoryTest.scala:64)[0m[0m

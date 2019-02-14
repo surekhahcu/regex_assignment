@@ -1,0 +1,16 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(edu.hcu.regex.AssignmentTest, org.scalatest.tools.Framework$$anon$1@649759e7, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(edu.hcu.regex.PdfToTextTest, org.scalatest.tools.Framework$$anon$1@649759e7, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(edu.hcu.regex.PdfCleanerTest, org.scalatest.tools.Framework$$anon$1@649759e7, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(edu.hcu.regex.PdfRepositoryTest, org.scalatest.tools.Framework$$anon$1@649759e7, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 2 seconds, 522 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 11[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 4, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 9, failed 2, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m*** 2 TESTS FAILED ***[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu.hcu.regex.PdfCleanerTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu.hcu.regex.AssignmentTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu.hcu.regex.PdfToTextTest[0m
+[0m[[0m[31merror[0m] [0m[0mFailed tests:[0m
+[0m[[0m[31merror[0m] [0m[0m	edu.hcu.regex.PdfRepositoryTest[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m
